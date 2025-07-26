@@ -1,1 +1,1 @@
-# Dice-Roller
+This is a simple Dice Roller.
